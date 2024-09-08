@@ -1,9 +1,9 @@
 # Hi 👋, I'm Mir Ahmed
 
-### An aspiring front-end developer/Data Analyst
+### An aspiring Front-End Developer/Data Analyst
 
 - 🌱 I’m currently learning **PowerBI and JavaScript**
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, HTML, CSS, SQL, Excel, C#**
 - 📫 How to reach me: [mirahmedabbaskhan@gmail.com](mailto:mirahmedabbaskhan@gmail.com)
 
 ### Connect with me:
