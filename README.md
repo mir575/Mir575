@@ -5,9 +5,11 @@
 - 🔭 I’m currently working on [The Complete 2024 Web Development Bootcamp](#)
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **Python, HTML, CSS**
-- 📫 How to reach me: https://www.linkedin.com/in/mir-ahmed-abbas575/
+- 📫 How to reach me: [Email](mailto:mirahmedabbaskhan@gmail.com)
 
 ### Connect with me:
+- 📫 How to reach me: [LinkedIn - Mir Ahmed Abbas](https://www.linkedin.com/in/mir-ahmed-abbas575/)
+
 
 ### Languages and Tools:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
