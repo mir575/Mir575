@@ -7,7 +7,7 @@
 - 📧 How to reach me: [mirahmedabbaskhan@gmail.com](mailto:mirahmedabbaskhan@gmail.com)
 
 ### Connect with me:
-- 📩 How to reach me: [LinkedIn - Mir Ahmed Abbas](https://www.linkedin.com/in/mir-ahmed-abbas575/)
+- 📩 [LinkedIn - Mir Ahmed Abbas](https://www.linkedin.com/in/mir-ahmed-abbas575/)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
