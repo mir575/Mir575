@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [The Complete 2024 Web Development Bootcamp](#)
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **Python, HTML, CSS**
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/mir-ahmed-abbas575/
 
 ### Connect with me:
 
