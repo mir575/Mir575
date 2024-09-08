@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **PowerBI and JavaScript**
 - 💬 Ask me about **Python, HTML, CSS**
-- 📫 How to reach me: [mirahmedabbaskhan@gmail.com(mailto:mirahmedabbaskhan@gmail.com)]
+- 📫 How to reach me: [mirahmedabbaskhan@gmail.com](mailto:mirahmedabbaskhan@gmail.com)
 
 ### Connect with me:
 - 📫 How to reach me: [LinkedIn - Mir Ahmed Abbas](https://www.linkedin.com/in/mir-ahmed-abbas575/)
