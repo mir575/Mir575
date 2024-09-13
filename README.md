@@ -5,7 +5,8 @@
 - 📖 I’m currently learning **PowerBI and JavaScript**
 - 💬 Ask me about **Python, HTML, CSS, SQL, Excel, C#**
 - 📧 How to reach me: [mirahmedabbaskhan@gmail.com](mailto:mirahmedabbaskhan@gmail.com)
-- https://mir575.github.io/E-Portfolio/
+
+😀 Feel free to view my E-Portfolio here https://mir575.github.io/E-Portfolio/
 
 ### Connect with me:
 - 📩 [LinkedIn - Mir Ahmed Abbas](https://www.linkedin.com/in/mir-ahmed-abbas575/)
